@@ -1,0 +1,11 @@
+{
+  "train_examples": 129,
+  "validation_examples": 16,
+  "evaluation_examples": 17,
+  "epochs": 1,
+  "max_length": 63,
+  "fine_tuned_eval_loss": 1.2386876344680786,
+  "fine_tuned_perplexity": 3.451081411265741,
+  "base_eval_loss": 4.50895357131958,
+  "base_perplexity": 90.82672507489076
+}
